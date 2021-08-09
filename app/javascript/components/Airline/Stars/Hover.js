@@ -1,0 +1,1 @@
+const Hover = encodeURIComponent(`svg xmlns='http://www.w3org/2000/svg`)
